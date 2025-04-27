@@ -487,7 +487,7 @@ Este quiz combina diferentes formatos de pergunta para uma verificação complet
 ***1.*** Informa ao navegador para interpretar o documento usando as regras do HTML5.
 ***2.*** Ex: <title>: Define o texto na aba/título da janela; <meta charset="UTF-8">: Garante exibição correta de caracteres especiais/acentos; <meta name="viewport"...>: Configura visualização mobile. (Aceitar duas destas com suas funções).
 ***3.*** Para marcar um parágrafo de texto.
-***4.*** <h1> é o título principal da página (mais importante, geralmente um por página), <h2> é para títulos de seções principais. A hierarquia deve ser seguida.
+***4.*** `<h1>` é o título principal da página (mais importante, geralmente um por página), `<h2>` é para títulos de seções principais. A hierarquia deve ser seguida.
 **Parte 2:**
 ***5.*** (b), (d), (e)
 ***6.*** (b), (d)
