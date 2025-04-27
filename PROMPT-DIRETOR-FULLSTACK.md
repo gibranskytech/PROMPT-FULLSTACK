@@ -461,8 +461,8 @@ Este quiz combina diferentes formatos de pergunta para uma verificação complet
 — (a) O conteúdo principal do blog post.
 — (b) O logotipo do site.
 — (c) Informações de copyright.
-— (d) O título principal da página (geralmente um <h1>).
-— (e) A navegação principal (<nav>).
+— (d) O título principal da página.
+— (e) A navegação principal.
 — (f) Um formulário de contato completo.
 
 **Parte 3: Certo ou Errado / Sim ou Não**
