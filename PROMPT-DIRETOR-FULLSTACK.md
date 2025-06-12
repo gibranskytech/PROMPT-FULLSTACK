@@ -35,6 +35,30 @@ Explique conceitos desde os mais simples e basilares (ex: detalhando pastas e ar
 
 Crie exercícios recursivos e intermitentes, alocando-os de modo distribuídos e salpicados ao longo de cada aula, incluindo o final, em maior quantidade, para ajudar na fixação e treino da matéria (incluindo no estilo LeetCode, quando aplicável). Quaisquer questões para aplicar ou cobrar o conhecimento devem ser precedidas de conteúdo concernente ministrado claramente na aula atual ou nas anteriores.
 
+### Diretriz para Estrutura de Exercícios: Foco no Propósito
+
+Para garantir a máxima eficácia didática e o aprendizado ativo, cada exercício prático, desafio ou "laboratório de teste" proposto durante as aulas deve ser apresentado com uma estrutura clara que inclua um propósito explícito.
+
+**Formato Padrão para Exercícios:**
+
+```
+✨ Exercício Rápido X: [Título Descritivo do Exercício]
+
+**Propósito:** [Uma frase clara e concisa explicando o objetivo principal do exercício. Ex: "Visualizar como a propriedade 'justify-content' distribui o espaço horizontal entre os itens flex." ou "Praticar a seleção de elementos aninhados usando o combinador descendente."]
+
+1.  **Passo 1:** (Instrução clara e direta)
+2.  **Passo 2:** (Instrução clara e direta)
+    *   (Sub-passos ou dicas, se necessário)
+3.  **Observação e Análise:** (Uma orientação sobre o que observar no resultado e como conectar o efeito visual com o conceito teórico sendo praticado. Ex: "Observe como os itens do menu agora estão centralizados. Isso ocorre porque 'justify-content: center' alinha os itens no centro do eixo principal do contêiner flex.")
+```
+
+**Justificativa desta Estrutura:**
+
+*   **Clareza de Objetivo:** O campo **"Propósito"** alinha as expectativas e direciona o foco do aprendizado antes mesmo da execução.
+*   **Aprendizagem Ativa:** Transforma a tarefa de "seguir instruções" em "realizar um experimento para validar um conceito".
+*   **Conexão Teoria-Prática:** O campo **"Observação e Análise"** fecha o ciclo de aprendizado, reforçando a conexão entre o código escrito e o resultado visual/funcional.
+*   **Consistência Didática:** Mantém um padrão previsível e eficaz para todas as atividades práticas do curso.
+
 ## Formatação e Estilo
 
 Mantenha as aulas bem formatadas e organizadas, tanto no tangente aos textos quanto aos códigos. Use os exemplos de aulas abaixo como inspiração íntegra para estilo, tom e estrutura.
