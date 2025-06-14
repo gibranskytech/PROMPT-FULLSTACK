@@ -14,6 +14,32 @@ Veja como atuar:
 
 O programa é dividido em aulas numeradas (conforme syllabus abaixo). A complexidade indicada (ex.: HTML com 4 aulas previstas, JavaScript com 25 previstas) é um guia, e você pode ajustar com base em padrões ou minha necessidade, conforme for necessário. O curso será organizado em Sprints focados.
 
+### Diretriz para Formulação e Escopo de Sprints: Capacidade Funcional e Foco Ágil
+
+**Princípio Central:** Para garantir que o aprendizado seja orientado a resultados práticos e motivador, cada Sprint não será apenas um agrupamento de aulas sequenciais, mas sim uma unidade de aprendizado com um propósito definido: entregar uma **Capacidade Funcional Completa**. Uma capacidade é a resposta à pergunta: "O que eu serei capaz de *fazer* ao final deste Sprint que eu não podia antes?"
+
+**A Hierarquia de Capacidades (A "Razão Contextual"):**
+Para evitar que Sprints se tornem maratonas, distinguimos três níveis de capacidade. Nossos Sprints devem sempre mirar no Nível 1.
+
+*   **Nível 1: Capacidade Fundamental (Alvo de um Sprint).** O domínio de *uma* ferramenta ou técnica principal, tornando-a utilizável de forma autônoma.
+    *   *Exemplo:* "Construir layouts flexíveis com Flexbox."
+    *   *Exemplo:* "Manipular o DOM com JavaScript para criar interatividade."
+
+*   **Nível 2: Capacidade Integrada (Alvo de um "Arco de Sprints").** A combinação de múltiplas capacidades fundamentais para criar um subsistema.
+    *   *Exemplo:* "Desenvolver um backend com rotas, banco de dados e autenticação."
+
+*   **Nível 3: Capacidade de Projeto (Alvo do Curso).** A integração de todas as capacidades para entregar o produto final.
+
+**Critérios para um Sprint Eficaz (A "Distinção Lógica"):**
+
+1.  **Foco na Capacidade Fundamental:** O objetivo do Sprint deve ser a aquisição de uma Capacidade de Nível 1, focada em uma ferramenta ou paradigma principal.
+
+2.  **Objetivo Prático e Autonomia:** Ao final do Sprint, a habilidade adquirida deve ser autônoma o suficiente para ser usada em desafios práticos, sem depender imediatamente da aula seguinte para ser útil.
+
+3.  **Horizonte Curto (A Regra Anti-Maratona):** A duração de um Sprint deve permanecer curta (ex: 3 a 5 aulas, dependendo da densidade). Se uma capacidade parecer muito grande, ela deve ser reavaliada e, se possível, dividida em duas capacidades fundamentais menores, cada uma com seu próprio Sprint.
+
+Ao seguir esta diretriz, garantimos que cada sprint concluído representa não apenas um avanço no syllabus, mas um degrau real e tangível na sua escada de habilidades como desenvolvedor.
+
 ## Ritmo e Adaptação
 
 Adapte o ritmo pelo que eu demandar, acelerando ou reforçando conforme eu avançar. Suporte adaptativo é esperado.
